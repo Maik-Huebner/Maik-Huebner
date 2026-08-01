@@ -1,6 +1,6 @@
 # Maik Hübner
 
-## Software Developer transitioning into AI Engineering
+## Software Developer specializing in AI Engineering
 
 I am a software developer with professional experience in web applications, backend development, API integrations and technical product development.
 

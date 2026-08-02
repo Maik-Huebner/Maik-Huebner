@@ -1,63 +1,87 @@
 # Maik Hübner
 
-## Software Developer specializing in AI Engineering
+## AI Engineer | Machine Learning & Deep Learning | Python & PyTorch
 
-I am a software developer with professional experience in web applications, backend development, API integrations and technical product development.
+I focus on building reliable, explainable and production-oriented AI systems for data-intensive and risk-sensitive business environments.
 
-I am currently completing an intensive AI Engineer training program and building a production-oriented portfolio covering the complete AI lifecycle:
+My primary domain focus is:
 
-- Data analysis and data engineering
-- Machine learning and explainable AI
+**Finance · Banking · Insurance**
+
+I am currently completing an intensive 30-week AI Engineer training program while developing a structured portfolio of practical AI and machine learning projects.
+
+My goal is not only to train models, but to design understandable and maintainable systems that can be tested, evaluated, integrated and monitored in real business environments.
+
+---
+
+## Current focus
+
+### AI and machine learning
+
+- Machine learning with scikit-learn
 - Deep learning with PyTorch
-- NLP, generative AI and RAG
-- Big data pipelines
-- MLOps, deployment and monitoring
+- Neural networks, CNNs, RNNs, LSTMs and GRUs
+- Autoencoders, attention mechanisms and transformers
+- Feature engineering and model evaluation
+- Explainable AI and auditable model decisions
+- Time series and financial data analysis
 
-My goal is not only to train models, but to develop reliable, understandable and maintainable AI systems that can be integrated into real business environments.
+### Data and software engineering
+
+- Python
+- SQL
+- NumPy
+- Pandas
+- Data preparation and exploratory data analysis
+- Object-oriented programming
+- REST APIs
+- Git and GitHub
+- Reproducible project structures
+- Testing and technical documentation
+
+### Currently expanding
+
+- FastAPI
+- Docker
+- MLOps and model deployment
+- MLflow
+- CI/CD and GitHub Actions
+- Retrieval-Augmented Generation
+- Generative AI
+- Agentic AI
+- Model monitoring
 
 ---
 
-## Current technical focus
+## AI Engineering portfolio
 
-**Programming and data**
+I am building four connected portfolio projects that represent different parts of the AI engineering lifecycle.
 
-Python · SQL · NumPy · Pandas · Polars · Object-Oriented Programming · APIs · Time Series Analysis
+### 1. [Deep Learning for Critical Systems](https://maik-huebner.de/projects/deep-learning-critical-systems)
 
-**Machine learning**
+**Status: In development**
 
-scikit-learn · Supervised Learning · Unsupervised Learning · Ensemble Methods · Feature Engineering · Model Evaluation · Explainable AI
+A production-oriented PyTorch project covering reproducible model training, architecture comparison, robustness analysis, evaluation and explainability.
 
-**Deep learning**
+### 2. [Data Intelligence Platform](https://maik-huebner.de/projects/data-intelligence-platform)
 
-PyTorch · Neural Networks · CNNs · RNNs · LSTMs · GRUs · Autoencoders · Attention · Transformers
+**Status: Planned**
 
-**Software engineering**
+A structured data platform covering APIs, validation, exploratory analysis, SQL, time series processing and interactive data presentation.
 
-Git · GitHub · REST APIs · Testing · Reproducible Project Structures · Technical Documentation
+### 3. [Explainable Risk Intelligence](https://maik-huebner.de/projects/explainable-risk-intelligence)
 
-**Currently expanding**
+**Status: Planned**
 
-FastAPI · Docker · MLflow · CI/CD · GitHub Actions · RAG · Agentic AI · Model Deployment · Monitoring
+A machine learning system for transparent risk classification, anomaly detection, explainability and auditable decision support.
 
----
+### 4. [Secure Enterprise AI Assistant](https://maik-huebner.de/projects/secure-enterprise-ai-assistant)
 
-## Portfolio roadmap
+**Status: Planned**
 
-Between August and September 2026, I am publishing four comprehensive AI Engineering projects:
+An enterprise-oriented AI assistant combining natural language processing, embeddings, retrieval-augmented generation, controlled workflows and systematic evaluation.
 
-1. **Deep Learning for Critical Systems**  
-   A production-oriented PyTorch project with reproducible training, model comparison, robustness analysis and explainability.
-
-2. **Data Intelligence Platform**  
-   A structured data project covering APIs, data validation, statistical analysis, time series, SQL and interactive visualization.
-
-3. **Explainable Risk and Anomaly Intelligence**  
-   A machine learning system focused on risk classification, anomaly detection, explainability, fairness and auditable decisions.
-
-4. **Secure Enterprise AI Assistant**  
-   An NLP and generative AI application combining information extraction, embeddings, RAG, controlled agent workflows and evaluation.
-
-Each project will include documented architecture, reproducible code, tests, evaluation, limitations and a clear explanation of the underlying technical decisions.
+Each project is designed as a professional portfolio component with documented architecture, reproducible code, tests, evaluation results, limitations and clearly explained technical decisions.
 
 ---
 
@@ -69,40 +93,46 @@ I focus on AI systems that are:
 - Explainable and transparent
 - Secure and maintainable
 - Evaluated against meaningful baselines
-- Designed for deployment and monitoring
-- Built around real business requirements
+- Designed around real business requirements
+- Prepared for deployment and monitoring
+- Honest about limitations and uncertainty
 
 ---
 
 ## Professional background
 
-Before specializing in AI Engineering, I worked independently on software and web projects involving backend development, APIs, e-commerce systems and technical implementation.
+Before focusing on AI Engineering, I worked independently on software and web projects involving:
 
-This experience allows me to approach AI projects not only from a modelling perspective, but also from the perspective of software architecture, integration, maintainability and practical delivery.
+- Backend development
+- API integrations
+- E-commerce systems
+- Database-driven applications
+- Technical implementation
+- Structured and maintainable software development
+
+This background helps me approach AI projects not only from a modelling perspective, but also from the perspective of architecture, integration, maintainability and practical delivery.
 
 ---
 
 ## Career direction
 
-I am preparing for roles such as:
+My target is a professional role as an AI Engineer from late 2026.
 
-- AI Engineer
-- Machine Learning Engineer
-- MLOps Engineer
-- Applied AI Engineer
-- AI Software Engineer
-- AI Platform Engineer
-- Data and AI Engineer
-- GenAI Engineer
+I am particularly interested in positions involving:
 
-I am particularly interested in production-oriented AI systems for finance, insurance, healthcare, defence, critical infrastructure and other data-intensive industries.
+- AI Engineering
+- Machine Learning Engineering
+- Deep Learning
+- Applied AI
+- AI Software Engineering
+- Data and AI Engineering
 
-**Available for a new professional opportunity from December 2026.**
+My preferred professional environment is Finance, Banking, Insurance or another data-intensive and risk-sensitive enterprise domain.
 
 ---
 
 ## Contact
 
 - Portfolio: [maik-huebner.de](https://maik-huebner.de)
-- LinkedIn: [linkedin.com/in/maik-hübner](https://www.linkedin.com/in/maik-h%C3%BCbner/)  
-- GitHub: [github.com/Maik-Huebner](https://github.com/Maik-Huebner)  
+- LinkedIn: [linkedin.com/in/maik-huebner](https://www.linkedin.com/in/maik-huebner)
+- GitHub: [github.com/Maik-Huebner](https://github.com/Maik-Huebner)

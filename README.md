@@ -288,4 +288,5 @@ I am especially interested in environments where software engineering and AI eng
 
 - Portfolio: [maik-huebner.de](https://maik-huebner.de)
 - LinkedIn: [linkedin.com/in/maik-huebner](https://www.linkedin.com/in/maik-huebner/)
+- XING:     [xing.com/profile/Maik_Huebner104]
 - GitHub: [github.com/Maik-Huebner](https://github.com/Maik-Huebner)

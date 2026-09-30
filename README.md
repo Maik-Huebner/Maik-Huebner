@@ -1,138 +1,291 @@
 # Maik Hübner
 
-## AI Engineer | Machine Learning & Deep Learning | Python & PyTorch
+## Software Developer specializing in AI Engineering
 
-I focus on building reliable, explainable and production-oriented AI systems for data-intensive and risk-sensitive business environments.
+I build reproducible, explainable and security-conscious AI systems with a strong focus on software engineering, evaluation and technical transparency.
 
-My primary domain focus is:
+My professional software development experience dates back to 2020. In 2026, I expanded this background through an intensive AI Engineering specialization covering data analysis, machine learning, deep learning, NLP, generative AI, Agentic AI, Big Data and MLOps.
 
-**Finance · Banking · Insurance**
+My primary domain interests are:
 
-I am currently completing an intensive 30-week AI Engineer training program while developing a structured portfolio of practical AI and machine learning projects.
+**Finance · Banking · Insurance · Data-intensive enterprise environments**
 
-My goal is not only to train models, but to design understandable and maintainable systems that can be tested, evaluated, integrated and monitored in real business environments.
+I am particularly interested in AI systems where reliability, explainability, reproducibility and controlled integration matter as much as model performance.
 
 ---
 
-## Current focus
+## Selected AI Engineering Projects
 
-### AI and machine learning
+### 1. [Consumer Finance Complaint Intelligence](https://github.com/Maik-Huebner/consumer-finance-complaint-intelligence)
 
-- Machine learning with scikit-learn
-- Deep learning with PyTorch
-- Neural networks, CNNs, RNNs, LSTMs and GRUs
-- Autoencoders, attention mechanisms and transformers
-- Feature engineering and model evaluation
-- Explainable AI and auditable model decisions
-- Time series and financial data analysis
+**Release: v1.0.1 · Completed**
 
-### Data and software engineering
+A reproducible consumer-finance data intelligence platform based on more than 10 million CFPB complaint records.
+
+Key engineering aspects:
+
+- Large-scale exploratory data analysis
+- Data validation and provenance
+- Reproducible analytical evidence
+- Automated cross-validation of published results
+- Output-clean notebook execution
+- Python 3.11 / 3.13 CI
+- Exact dependency locks
+- Non-editable package installation
+- Package and isolated wheel validation
+- Fresh-clone reproducibility checks
+- 35 automated tests
+
+The project demonstrates how analytical results can be turned into a structured, testable and auditable data product rather than remaining a collection of notebooks.
+
+---
+
+### 2. [Explainable Risk Intelligence](https://github.com/Maik-Huebner/explainable-risk-intelligence)
+
+**Release: v1.0.0 · Completed**
+
+An explainable machine learning project for risk-oriented classification using the UCI Default Credit Card Clients dataset.
+
+Key engineering aspects:
+
+- Histogram Gradient Boosting
+- Probability calibration
+- Threshold optimization
+- ROC-AUC and PR-AUC evaluation
+- Bootstrap confidence intervals
+- SHAP-based model interpretation
+- Fairness analysis
+- Robustness and drift checks
+- Reproducible evidence generation
+- Python 3.11 / 3.13 CI
+- 44 automated tests
+
+The project deliberately separates predictive evidence from business or regulatory claims and documents important limitations of the underlying data and evaluation design.
+
+---
+
+### 3. [Deep Learning Critical Systems](https://github.com/Maik-Huebner/deep-learning-critical-systems)
+
+**Release: v1.0.1 · Completed**
+
+A PyTorch-based deep learning project for financial stress classification with an emphasis on reproducibility, architecture comparison and honest evaluation.
+
+Architectures:
+
+- Multilayer Perceptron
+- LSTM
+- Transformer
+
+Key engineering aspects:
+
+- Chronological train/validation/test design
+- Training-only preprocessing
+- Reproducible model evidence
+- Architecture comparison
+- ROC-AUC and Macro-F1 evaluation
+- Robustness analysis
+- Temporal performance analysis
+- Attention analysis with explicit non-causal interpretation
+- Versioned evidence bundle with SHA-256 manifest
+- Package build and isolated wheel smoke tests
+- Fresh-clone validation
+- 78 automated tests
+
+One important result of the project is that the strongest architecture still shows substantial limitations in detecting stress increases across different time periods. These weaknesses are documented rather than hidden behind headline metrics.
+
+---
+
+### 4. [Secure Enterprise AI Assistant](https://github.com/Maik-Huebner/secure-enterprise-ai-assistant)
+
+**Release: v1.0.2 · Completed**
+
+A security-oriented Agentic AI reference implementation combining MCP tool orchestration, hybrid retrieval, deterministic business services and controlled agent workflows.
+
+Key technologies and concepts:
+
+- FastMCP
+- CrewAI
+- FAISS
+- BM25S
+- Hybrid retrieval
+- Gradio
+- PyTorch ecosystem
+- Docker
+- Agentic AI
+- Least-privilege tool access
+- Deterministic finance and compliance services
+- Guardrails and negative security tests
+
+Engineering highlights:
+
+- Four validated MCP tools
+- Package-based runtime resources
+- Explicit runtime-state handling
+- Controlled tool assignment
+- Agent routing and fallback behavior
+- Synthetic offline evaluation
+- Eight reproducible evaluation dimensions
+- Evidence validation
+- Repository security and hygiene audit
+- Non-editable installation
+- Isolated wheel validation
+- Fresh-clone reproducibility
+- Non-root Docker container
+- Docker health and UI smoke tests
+- 84 automated tests with warnings treated as errors
+
+The repository is intentionally positioned as a portfolio and reference architecture. It is not presented as a certified enterprise-security solution, regulatory compliance system or production banking platform.
+
+---
+
+## AI Engineering Stack
+
+### Machine Learning & Deep Learning
 
 - Python
+- scikit-learn
+- PyTorch
+- Neural networks
+- CNNs
+- RNNs / LSTMs / GRUs
+- Attention mechanisms
+- Transformers
+- Feature engineering
+- Model evaluation
+- Explainable AI
+- Robustness analysis
+- Time-series analysis
+
+### Generative AI & Agentic AI
+
+- Retrieval-Augmented Generation
+- Hybrid Retrieval
+- Embeddings
+- FAISS
+- BM25S
+- MCP
+- FastMCP
+- CrewAI
+- Agent routing
+- Tool use
+- Guardrails
+- Evaluation
+- Controlled fallback strategies
+
+### Data & Software Engineering
+
 - SQL
+- PostgreSQL
+- MongoDB
 - NumPy
 - Pandas
-- Data preparation and exploratory data analysis
-- Object-oriented programming
 - REST APIs
-- Git and GitHub
+- Object-oriented programming
+- Git / GitHub
+- Docker
+- GitHub Actions
+- CI/CD
+- Testing
+- Packaging
 - Reproducible project structures
-- Testing and technical documentation
+- Technical documentation
 
 ### Currently expanding
 
-- FastAPI
-- Docker
-- MLOps and model deployment
+- Big Data Engineering
+- Neo4j
+- Apache Spark / PySpark
+- Apache Airflow
+- ETL pipelines
+- MLOps
 - MLflow
-- CI/CD and GitHub Actions
-- Retrieval-Augmented Generation
-- Generative AI
-- Agentic AI
+- Model deployment
 - Model monitoring
+- Cloud AI infrastructure
 
 ---
 
-## AI Engineering portfolio
+## Engineering Principles
 
-I am building four connected portfolio projects that represent different parts of the AI engineering lifecycle.
+I prefer AI systems that are:
 
-### 1. [Deep Learning for Critical Systems](https://maik-huebner.de/projects/deep-learning-critical-systems)
-
-**Status: In development**
-
-A production-oriented PyTorch project covering reproducible model training, architecture comparison, robustness analysis, evaluation and explainability.
-
-### 2. [Data Intelligence Platform](https://maik-huebner.de/projects/data-intelligence-platform)
-
-**Status: Planned**
-
-A structured data platform covering APIs, validation, exploratory analysis, SQL, time series processing and interactive data presentation.
-
-### 3. [Explainable Risk Intelligence](https://maik-huebner.de/projects/explainable-risk-intelligence)
-
-**Status: Planned**
-
-A machine learning system for transparent risk classification, anomaly detection, explainability and auditable decision support.
-
-### 4. [Secure Enterprise AI Assistant](https://maik-huebner.de/projects/secure-enterprise-ai-assistant)
-
-**Status: Planned**
-
-An enterprise-oriented AI assistant combining natural language processing, embeddings, retrieval-augmented generation, controlled workflows and systematic evaluation.
-
-Each project is designed as a professional portfolio component with documented architecture, reproducible code, tests, evaluation results, limitations and clearly explained technical decisions.
+- **Reproducible** rather than dependent on a developer machine
+- **Testable** rather than demonstrated only through notebooks
+- **Explainable** where decisions need interpretation
+- **Evaluated** against explicit metrics and baselines
+- **Security-conscious** with controlled tool and data access
+- **Modular** enough to integrate into existing software systems
+- **Honest about limitations** instead of presenting experimental results as production evidence
+- **Designed as software systems**, not only as trained models
 
 ---
 
-## Engineering principles
+## Professional Background
 
-I focus on AI systems that are:
-
-- Reproducible and testable
-- Explainable and transparent
-- Secure and maintainable
-- Evaluated against meaningful baselines
-- Designed around real business requirements
-- Prepared for deployment and monitoring
-- Honest about limitations and uncertainty
-
----
-
-## Professional background
-
-Before focusing on AI Engineering, I worked independently on software and web projects involving:
+Before specializing in AI Engineering, I worked independently on software and web development projects involving:
 
 - Backend development
+- PHP / Symfony / Laravel
+- MySQL and database-driven applications
+- REST APIs
 - API integrations
 - E-commerce systems
-- Database-driven applications
-- Technical implementation
-- Structured and maintainable software development
+- Shopware
+- Docker
+- Git
+- Structured software development
 
-This background helps me approach AI projects not only from a modelling perspective, but also from the perspective of architecture, integration, maintainability and practical delivery.
+This background influences how I approach AI Engineering.
+
+I do not view a model as the complete product. I am interested in the surrounding system: data, interfaces, testing, evaluation, deployment, observability, security and maintainability.
 
 ---
 
-## Career direction
+## Current Development
 
-My target is a professional role as an AI Engineer from late 2026.
+I am currently completing the final stages of an intensive AI Engineer training program.
 
-I am particularly interested in positions involving:
+Completed areas include:
 
-- AI Engineering
-- Machine Learning Engineering
+- Data Analysis & Exploratory Data Analysis
+- Applied Machine Learning
 - Deep Learning
-- Applied AI
-- AI Software Engineering
-- Data and AI Engineering
+- NLP & Generative AI
+- Retrieval-Augmented Generation
+- Agentic AI
+- MCP-based tool integration
 
-My preferred professional environment is Finance, Banking, Insurance or another data-intensive and risk-sensitive enterprise domain.
+Current focus:
+
+- Big Data technologies and data pipelines
+
+Next:
+
+- MLOps and production-oriented ML lifecycle management
+
+---
+
+## Career Direction
+
+I am preparing for a professional AI Engineering role starting in late 2026.
+
+Roles of particular interest include:
+
+- AI Engineer
+- Applied AI Engineer
+- Machine Learning Engineer
+- MLOps Engineer
+- AI Platform Engineer
+- Generative AI Engineer
+- AI Software Engineer
+- Machine Learning Platform Engineer
+
+I am especially interested in environments where software engineering and AI engineering meet: financial services, insurance, enterprise AI platforms and other data-intensive domains.
 
 ---
 
 ## Contact
 
 - Portfolio: [maik-huebner.de](https://maik-huebner.de)
-- LinkedIn: [linkedin.com/in/maik-huebner](https://www.linkedin.com/in/maik-huebner)
+- LinkedIn: [linkedin.com/in/maik-huebner](https://www.linkedin.com/in/maik-huebner/)
 - GitHub: [github.com/Maik-Huebner](https://github.com/Maik-Huebner)
